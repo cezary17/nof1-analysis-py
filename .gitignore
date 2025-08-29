@@ -11,3 +11,7 @@ wheels/
 
 # Pycharm
 .idea/
+
+.env
+
+data/raw/
